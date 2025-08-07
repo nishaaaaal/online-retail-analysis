@@ -41,7 +41,6 @@ cd online-retail-data-analysis
 
 ```bash
 pip install -r requirements.txt
-```
 
 ### 3. Launch the Notebook
 
