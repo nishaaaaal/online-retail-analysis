@@ -46,4 +46,4 @@ pip install -r requirements.txt
 
 ```bash
 jupyter notebook notebooks/project_professional.ipynb
-``
+```
