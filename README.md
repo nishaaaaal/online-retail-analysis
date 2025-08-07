@@ -49,7 +49,6 @@ pip install -r requirements.txt
 jupyter notebook notebooks/project_professional.ipynb
 ```
 
-
 This project is licensed under the MIT License.
 
 ```
